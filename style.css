@@ -1,0 +1,9 @@
+.box1{
+    height: 100px; width: 100px;
+    display: flex;
+    justify-content: center;
+}
+#box4{
+    display: flex;
+    justify-content: end;
+}
